@@ -2,4 +2,4 @@
 
 A simple social buttons with tooltip on hover by only using CSS.
 
-<p align="center"><img alt="gif" src="https://giphy.com/static/img/zoomies-small.gif" />
+<p align="center"><img alt="gif" src="https://i.imgur.com/vuKALlj.gif" />
